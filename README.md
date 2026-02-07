@@ -1,4 +1,4 @@
-# Linear Regression Project
+# Linear-Regression-Ice-Cream-Sales
 
 ## 📌 Project Overview
 This project demonstrates a Simple Linear Regression model built using Python to predict ice cream sales based on temperature.
